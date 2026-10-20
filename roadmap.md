@@ -1,0 +1,2 @@
+- [x] Harden WhatsApp enquiry navigation and popup fallback without changing branding or business contacts.
+- [x] Test validation, encoded messages, every contact entry point, and desktop/mobile interactions.
